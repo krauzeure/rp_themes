@@ -1,4 +1,4 @@
-.paragraph:first-child {
+p:first-of-type {
   margin-top: 0;
   padding: 0;
 }
