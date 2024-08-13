@@ -4,3 +4,20 @@ p:first-of-type {
   background-color: red;
   padding: 0;
 }
+
+.container {
+  display: flex;
+}
+
+.gifs img {
+  width: 75px;
+  height: 75px;
+  border-radius: 100%;
+  border: 2px solid #dbc5ab;
+  object-fit: cover;
+}
+
+.rp_text {
+  width: 400px;
+  padding: 5px;
+}
