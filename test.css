@@ -1,4 +1,6 @@
 p:first-of-type {
   margin-top: 0;
+  margin-block-start: 0;
+  background-color: red;
   padding: 0;
 }
