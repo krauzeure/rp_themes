@@ -1,4 +1,4 @@
-.paragraph {
-  margin: 0;
+.paragraph:first-child {
+  margin-top: 0;
   padding: 0;
 }
