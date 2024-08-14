@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair:opsz,wght@5..1200,600&family=Poppins:wght@400;800&display=swap');
+
+.airpeger_float2 {
+  width: 400px;
+  text-align: justify;
+}
+
+.airpeger_float2 .header {
+  padding-left: 20px;
+  margin: 15px 0;
+}
+
+.airpeger_float2 .title {
+  text-transform: lowercase;
+  font-size: 1.1rem;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  margin: 0;
+}
+
+.airpeger_float2 .name {
+  margin: 0;
+  font-size: 0.7rem;
+}
+
+.airpeger_float2 .container {
+  padding-top: 10px;
+}
+
+.airpeger_float2 .container p:first-of-type {
+  margin-top: 0;
+  margin-block-start: 0;
+  padding: 0;
+}
+
+.airpeger_float2 p:last-of-type {
+  margin-bottom: 0;
+}
+
+.airpeger_float2 img {
+  vertical-align: bottom;
+  padding: 3px;
+  border: 1px solid #d1d1d1;
+  width: 120px;
+  object-fit: cover;
+  float: right;
+  margin: 0 0 -2px 10px;
+}
