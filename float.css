@@ -39,18 +39,9 @@
   margin-bottom: 0;
 }
 
-.airpeger_float_container {
-  display: flex;
-}
-
 .airpeger_float img {
   width: 120px;
   object-fit: cover;
   float: left;
   margin: 0 15px 0 0;
-}
-
-.airpeger_float_text {
-  width: 400px;
-  padding: 5px;
 }
