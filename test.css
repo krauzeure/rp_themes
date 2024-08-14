@@ -1,15 +1,15 @@
-p:first-of-type {
+.floatrp p:first-of-type {
   margin-top: 0;
   margin-block-start: 0;
   background-color: red;
   padding: 0;
 }
 
-.container {
+.floatrp_container {
   display: flex;
 }
 
-.gifs img {
+.floatrp_gifs img {
   width: 75px;
   height: 75px;
   border-radius: 100%;
@@ -17,7 +17,7 @@ p:first-of-type {
   object-fit: cover;
 }
 
-.rp_text {
+.floatrp_text {
   width: 400px;
   padding: 5px;
 }
