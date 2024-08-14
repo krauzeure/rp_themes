@@ -1,15 +1,15 @@
-.floatrp p:first-of-type {
+.airpeger_float p:first-of-type {
   margin-top: 0;
   margin-block-start: 0;
   background-color: red;
   padding: 0;
 }
 
-.floatrp_container {
+.airpeger_float_container {
   display: flex;
 }
 
-.floatrp_gifs img {
+.airpeger_float_gifs img {
   width: 75px;
   height: 75px;
   border-radius: 100%;
@@ -17,7 +17,7 @@
   object-fit: cover;
 }
 
-.floatrp_text {
+.airpeger_float_text {
   width: 400px;
   padding: 5px;
 }
