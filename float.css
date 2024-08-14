@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair:opsz,wght@5..1200,600&display=swap');
 
 .airpeger_float {
-  width: 500px;
+  width: 400px;
   text-align: justify;
 }
 
@@ -21,7 +21,7 @@
 
 .airpeger_float .name {
   margin: 0;
-  font-size: 0.9rem;
+  font-size: 0.7rem;
 }
 
 .airpeger_float .container {
