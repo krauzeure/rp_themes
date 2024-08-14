@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair:opsz,wght@5..1200,600&display=swap');
+
+.airpeger_float {
+  width: 500px;
+  text-align: justify;
+}
+
+.airpeger_float .header {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.airpeger_float .title {
+  text-transform: uppercase;
+  font-size: 1.1rem;
+  font-family: 'Playfair', serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  margin: 0;
+}
+
+.airpeger_float .name {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.airpeger_float .container {
+  padding: 10px;
+  border: 1px solid #d1d1d1;
+}
+
+.airpeger_float .container p:first-of-type {
+  margin-top: 0;
+  margin-block-start: 0;
+  padding: 0;
+}
+
+.airpeger_float p:last-of-type {
+  margin-bottom: 0;
+}
+
+.airpeger_float_container {
+  display: flex;
+}
+
+.airpeger_float img {
+  width: 120px;
+  object-fit: cover;
+  float: left;
+  margin: 0 15px 0 0;
+}
+
+.airpeger_float_text {
+  width: 400px;
+  padding: 5px;
+}
